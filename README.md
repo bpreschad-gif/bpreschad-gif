@@ -1,56 +1,85 @@
-# Bruna Preschadt
+<h1 align="center">Olá, sou Bruna Preschadt 👋</h1>
 
-Founder of Aquvaris AI  
-Environmental Intelligence Systems • Data Science • AI Applied to Real-World Operations
+<p align="center">
+  <b>Data Engineer & AI Developer</b><br/>
+  Construindo pipelines de dados em escala e soluções de IA aplicadas ao mundo real
+</p>
 
----
-
-## About Me
-
-I am developing Aquvaris AI, an environmental intelligence platform focused on transforming operational environmental data into intelligent systems for analysis, sustainability and strategic decision-making.
-
-My background combines:
-
-- Environmental Engineering
-- Data Science
-- Artificial Intelligence
-- Operational Analysis
-- Sustainability Systems
-- Environmental Intelligence
-
----
-
-## Current Focus
-
-Building:
-- Environmental intelligence systems
-- Operational AI engines
-- Sustainability analytics
-- Intelligent inspection systems
-- AI-powered environmental dashboards
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruna-preschadt-de-oliveira-1550ab1ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bruna%20Preschadt-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/brunapreschadt">
+    <img src="https://img.shields.io/badge/Kaggle-brunapreschadt-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aquvarisAI">
+    <img src="https://img.shields.io/badge/Produto-Aquvaris%20AI-FF6B35?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Main Technologies
+## Sobre mim
 
-- Python
-- SQL
-- PostgreSQL / PostGIS
-- React
-- Next.js
-- Supabase
-- OpenAI API
-- Power BI
+Sou Data Engineer com foco em **Big Data, pipelines de dados e IA aplicada**. Combino engenharia de dados em escala com desenvolvimento de produtos de inteligência artificial — sendo a **Aquvaris AI** meu projeto principal em produção.
+
+Tenho experiência construindo pipelines end-to-end: da ingestão de dados brutos até dashboards e modelos prontos para decisão. Acredito que dados só têm valor quando chegam no lugar certo, na hora certa, no formato certo.
 
 ---
 
-## Organization
+## Projetos em destaque
 
-🔹 Aquvaris AI  
-Environmental Intelligence Systems
+| Projeto | Descrição | Stack | Links |
+|--------|-----------|-------|-------|
+| 🤖 **Aquvaris AI** | Plataforma SaaS de IA — produto em produção | Python, LLM, API | [Repositório](https://github.com/aquvarisAI) |
+| ⚡ **Big Data Pipeline** | Pipeline de ingestão e transformação em escala com arquitetura Lakehouse | PySpark, Delta Lake, Kafka | Em breve |
+| 📊 **Kaggle — Análise Preditiva** | Competição de ML com EDA completa, feature engineering e modelagem | Python, XGBoost, sklearn | Em breve |
+| 🌐 **Web Scraping + API** | Coleta automatizada de dados públicos e APIs REST | Scrapy, BeautifulSoup, Pandas | Em breve |
+| 📈 **Dashboard de Varejo** | Análise de dados de e-commerce com visualização interativa | Tableau Public, Looker Studio | Em breve |
 
 ---
 
-## Vision
+## Stack técnica
 
-Transform environmental operations into intelligent, measurable and actionable systems through artificial intelligence and real-world operational analysis.
+**Engenharia de Dados**
+```
+PySpark · Apache Kafka · Delta Lake · Apache Airflow · SQL · dbt
+```
+
+**Machine Learning & IA**
+```
+Python · scikit-learn · XGBoost · LLMs · LangChain · Hugging Face
+```
+
+**Coleta & Armazenamento**
+```
+Scrapy · BeautifulSoup · APIs REST · PostgreSQL · MongoDB · Parquet
+```
+
+**Visualização**
+```
+Tableau Public · Google Looker Studio · Plotly · Matplotlib · Seaborn
+```
+
+**Cloud & DevOps**
+```
+Docker · GitHub Actions · Git · Linux
+```
+
+---
+
+## Artigos publicados
+
+> Em breve — acompanhe no [Medium](https://medium.com) e no [LinkedIn](https://www.linkedin.com/in/bruna-preschadt-de-oliveira-1550ab1ab/)
+
+---
+
+## Vamos conversar?
+
+Estou aberta a oportunidades em **Engenharia de Dados**, colaborações técnicas e projetos de **IA aplicada**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruna-preschadt-de-oliveira-1550ab1ab/">
+    <img src="https://img.shields.io/badge/Me%20chame%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
